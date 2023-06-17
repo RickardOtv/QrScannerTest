@@ -1,1 +1,1 @@
-Qr code scanner test, made with Xcode
+Qr code scanner test, made with Swift in Xcode
