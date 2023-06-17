@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  CodeScanningTest
 //
-//  Created by  Rickard Otvos on 2023-06-17.
+//  Created by  Rickard Otvos! on 2023-06-17.
 //
 
 import SwiftUI
